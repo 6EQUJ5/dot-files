@@ -1,0 +1,10 @@
+# ignoring all but some dot files
+*
+!.vim*
+!.gvim*
+!.emacs*
+
+## ignoring vim and emacs temp shit
+*.sw*
+*~
+
